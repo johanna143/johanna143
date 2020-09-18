@@ -1,1 +1,117 @@
+body {
+    background-image: url(/12_JE.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+#icon {
+    padding-bottom: 10px;
+   
+}
+
+#work {
+   
+    background-color: rgb(235, 235, 235);
+    margin-bottom: 50px;
+}
+
+#skola {
+    background-color: rgb(235, 235, 235);
+    padding-bottom: 30px;
+}
+
+.lead {
+    font-size: small;
+}
+
+#card {
+    background-color: rgb(235, 235, 235);
+    margin-top: 50px;
+   margin-bottom: 50px;
+   padding-bottom: 30px;
+}
+
+#education {
+    
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+
+}
+
+#me {
+    padding-bottom: 30px;
+    background-color: rgb(235, 235, 235);
+    margin-bottom: 50px;
+}
+
+#life {
+    background-color: rgba(15, 46, 15, 0.918);
+    color: white;
+    margin-bottom: 5px;
+}
+
+#year {
+    font-size: 13px;
+    color: white;
+}
+
+#profil {
+    max-inline-size: 90%;
+   
+}
+
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar {
+    background-color:  rgb(15, 46, 15, 0.918);
+    padding: 0 !important;
+}
+
+.navbar li {
+    padding: 0 10px;
+}
+.navbar-nav li a {
+    color: white !important;
+    font-weight: 600;
+}
+
+.fa-bars {
+    color: white !important;
+}
+
+#home {
+    background-color: rgba(15, 46, 15, 0.918) ;
+    height: 300px;
+    margin-bottom: 30px;
+}
+
+#firsttext{
+    padding-top: 70px;
+}
+
+#johanna {
+    font-family: 'Rubik Mono One';
+    color: white
+}
+
+#johannawebb{
+    font-family: 'Reenie Beanie',  sans-serif;
+    color: white;
+}
+
+#kontakt {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+   font-size: 13px;
+}
+
+#kontakt a {
+    color: white;
+    text-decoration: none;
+}
